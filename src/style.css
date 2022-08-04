@@ -61,17 +61,11 @@ img {
   color: hsl(228, 45%, 44%);
 }
 
-@media (max-width: 500px) {
+@media (max-width: 375px) {
   .details {
     padding: 1rem;
     margin: 1rem 0;
     font-size: 35px;
-  }
-
-  img {
-    height: 300px;
-    object-fit: cover;
-    border-radius: 16px 16px 0 0;
   }
 
   .attribution {

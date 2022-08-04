@@ -14,8 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 This is my first attempt at writing a read me file. I don't enjoy writing, but I promise to do better subsequently.
@@ -30,10 +28,10 @@ This is my first attempt at writing a read me file. I don't enjoy writing, but I
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+
 After creating my style sheet and organizing my colors, I started out with the background then I layered on it some kinda card using css.
 Next was placing the image within the card and trying to eyeball my way to perfection.
 I worked on the fonts last to adjust them to required size.
-
 
 ### Built with
 
@@ -46,6 +44,7 @@ I learned that coding never really leaves you, you just get rusty. I picked up t
 
 ### Continued development
 
+A lot of users access the websites with their mobile phones and that makes media querries supper important. With my observation from this challange, my media querries knowledge could use some revamp.  
 For someone enclined to the front end, my speed was really poor. Yes i can attribute them to a couple other factors but I could do better. I intend to pick up a JavaScript program and battle through.
 
 ### Useful resources
@@ -54,6 +53,6 @@ For someone enclined to the front end, my speed was really poor. Yes i can attri
 
 ## Author
 
-- Website - [Iruoma](https://www.your-site.com)
+- Website - [Iruoma](https://omas-qr-037291.netlify.app/)
 - Frontend Mentor - [@EnweremOma](https://www.frontendmentor.io/profile/EnweremOma)
 - Twitter - [@fave_oma](https://www.twitter.com/fave_oma)
