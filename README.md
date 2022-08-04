@@ -24,8 +24,8 @@ This is my first attempt at writing a read me file. I don't enjoy writing, but I
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/EnweremOma/QR-Code)
+- Live Site URL: [Add live site URL here](https://omas-qr-037291.netlify.app/)
 
 ## My process
 
